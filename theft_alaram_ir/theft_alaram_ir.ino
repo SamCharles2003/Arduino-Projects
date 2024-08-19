@@ -3,7 +3,7 @@ int buzzer =6;
 void setup() {
   // put your setup code here, to run once:
   pinMode(sensor,INPUT);
-  pinMode(buzzer,OUTPUT)
+  pinMode(buzzer,OUTPUT);
 
 }
 
