@@ -2,8 +2,8 @@
 #include <NewPing.h>        //Ultrasonic sensor function library. You must install this library
 
 //our L298N control pins
-const int LeftMotorForward = 2;
-const int LeftMotorBackward = 7;
+const int LeftMotorForward = 7;
+const int LeftMotorBackward = 2;
 const int RightMotorForward = 4;
 const int RightMotorBackward = 5;
 
